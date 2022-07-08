@@ -502,7 +502,10 @@ form input.qty {
 	color: #555;
 	
 }
-
+.row
+{
+  justify-content: center;
+}
 h1
 {
 	text-align: center;
